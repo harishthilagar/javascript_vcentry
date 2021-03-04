@@ -7,7 +7,6 @@ let product = {
    calculateprice : function() {
     console.log("price calculated");
   }
-
 }
 
 console.log(product);
