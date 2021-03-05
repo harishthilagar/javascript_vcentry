@@ -62,8 +62,8 @@ let strnum4 = Number(strnum1) + Number(strnum2);
 console.log(strnum4);
 
 
-let strnuma = "100";
-let strnumb = "100";
+let strnuma = "100px";
+let strnumb = "100px";
 
 let strnum5 = parseInt(strnuma) + parseInt(strnumb);
 console.log(strnum5);
