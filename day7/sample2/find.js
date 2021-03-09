@@ -4,6 +4,11 @@ arr.forEach(function(item,index,array){
     console.log(array);
 })
 
+arr.forEach((item, i,array) => {
+  console.log(item);
+});
+
+
 console.log("------------------------------------");
 
 let objarr = [
