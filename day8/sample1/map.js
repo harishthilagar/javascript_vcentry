@@ -29,5 +29,5 @@ map.set("place","guindy");
 console.log(map);
 console.log("---------------------------");
 console.log(map.get("username"));
- map.clear();
+map.clear();
 console.log(map);
